@@ -1,4 +1,4 @@
-# NeuralConnectivity-Model
+# NeuronalConnectivity-Model
 Modelling neuronal connectivity with multivariate probability distributions. Independent project work as part of a graduate course at KTH in Stockholm.
 
 ## Abstract
